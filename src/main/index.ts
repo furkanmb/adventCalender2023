@@ -1,5 +1,3 @@
-import { firstStar } from "../day-1/firstDay";
+import { firstStar, secondStar } from "../day-1/firstDay";
 
-var a = firstStar();
-
-console.log(a);
+console.log("Day 1: first star " + firstStar() + ", second star " + secondStar() )
